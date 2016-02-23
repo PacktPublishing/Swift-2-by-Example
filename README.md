@@ -12,8 +12,10 @@ https://github.com/PacktPublishing/Swift-2-by-Example/edit/master/README.md
 #Related Swift books and Videos:
 (A) Swift Essentials - Second Edition at
 https://www.packtpub.com/application-development/swift-essentials-second-edition
+
 (B) Application Development with Swift 2 [Video] at
 https://www.packtpub.com/application-development/application-development-swift-2-video
+
 (C) Object–Oriented Programming with Swift 2 at
 https://www.packtpub.com/application-development/object%E2%80%93oriented-programming-swift-2
 
