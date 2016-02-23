@@ -10,8 +10,8 @@ Mac System with minimum 4 GB of RAM and Latest Mac OS
 https://github.com/PacktPublishing/Swift-2-by-Example/edit/master/README.md
 
 #Related Swift books and Videos:
-Swift Essentials - Second Edition at
-https://www.packtpub.com/application-development/swift-essentials-second-edition 
+(A)Swift Essentials - Second Edition at
+https://www.packtpub.com/application-development/swift-essentials-second-edition
 Application Development with Swift 2 [Video] at
 https://www.packtpub.com/application-development/application-development-swift-2-video
 Object–Oriented Programming with Swift 2 at
