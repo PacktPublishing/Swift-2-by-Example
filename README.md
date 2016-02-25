@@ -6,9 +6,6 @@ This project contains all chapter wise code files
 #Hardware requirements
 Mac System with minimum 4 GB of RAM and Latest Mac OS
 
-#Code related README file
-https://github.com/PacktPublishing/Swift-2-by-Example/edit/master/README.md
-
 #Related Swift books and Videos:
 (A) Swift Essentials - Second Edition at
 https://www.packtpub.com/application-development/swift-essentials-second-edition
