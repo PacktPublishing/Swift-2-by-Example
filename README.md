@@ -1,20 +1,8 @@
-#Swift-2-by-Example
-You can have a look at [Swift 2 by Example](https://www.packtpub.com/application-development/swift-2-example) book
+#Swift 2 by Example
 
-This project contains all chapter wise code files
+This is the code repository for [Swift 2 by Example](https://www.packtpub.com/application-development/swift-2-example?utm_source=github&utm_medium=repository&utm_campaign=9781785882920), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-#Hardware requirements
-Mac System with minimum 4 GB of RAM and Latest Mac OS
-
-#Related Swift books and Videos:
-(A) [Swift Essentials - Second Edition] (https://www.packtpub.com/application-development/swift-essentials-second-edition)
-
-(B) [Application Development with Swift 2 [Video]] (https://www.packtpub.com/application-development/application-development-swift-2-video)
-
-(C) [Object–Oriented Programming with Swift 2]
-(https://www.packtpub.com/application-development/object%E2%80%93oriented-programming-swift-2)
-
-#eBooks, discount offers, and more
-Did you know that Packt offers eBook versions of every book published, with PDF and ePub files available? You can upgrade to the eBook version at www.PacktPub.com and as a print book customer, you are entitled to a discount on the eBook copy. Get in touch with us at customercare@packtpub.com for more details. [At PacktPub] (www.PacktPub.com), you can also read a collection of free technical articles, sign up for a range of free newsletters and receive exclusive discounts and offers on Packt books and eBooks.
-
-Do you need instant solutions to your IT questions? PacktLib is Packt's online digital book library. Here, you can search, access, and read Packt's entire library of books. Why subscribe? • Fully searchable across every book published by Packt • Copy and paste, print, and bookmark content • On demand and accessible via a web browser
+##Related Swift Products:
+* [Swift Essentials - Second Edition](https://www.packtpub.com/application-development/swift-essentials-second-edition?utm_source=github&utm_medium=related&utm_campaign=9781785888878)
+* [Application Development with Swift 2](https://www.packtpub.com/application-development/application-development-swift-2-video?utm_source=github&utm_medium=related&utm_campaign=9781785889608)
+* [Object–Oriented Programming with Swift 2](https://www.packtpub.com/application-development/object%E2%80%93oriented-programming-swift-2?utm_source=github&utm_medium=related&utm_campaign=9781785885693)
