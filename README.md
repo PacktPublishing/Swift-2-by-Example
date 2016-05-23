@@ -1,6 +1,6 @@
 #Swift 2 by Example
 
-This is the code repository for [Swift 2 by Example](https://www.packtpub.com/application-development/swift-2-example?utm_source=github&utm_medium=repository&utm_campaign=9781785882920), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Swift 2 by Example](https://www.packtpub.com/application-development/swift-2-example?utm_source=github&utm_medium=repository&utm_campaign=9781785882920), published by Packt Publishing. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##Instructions and Navigation
 All of the code is organized into folders. Each folder starts with number followed by the application name. For example, 1-GuessTheNumber which is application from chapter 1.
