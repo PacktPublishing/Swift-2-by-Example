@@ -1,4 +1,6 @@
-#Swift 2 by Example
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Swift-2-by-Example/master/LICENSE)
+
+# Swift 2 by Example
 
 This is the code repository for [Swift 2 by Example](https://www.packtpub.com/application-development/swift-2-example?utm_source=github&utm_medium=repository&utm_campaign=9781785882920), published by Packt Publishing. It contains all the supporting project files necessary to work through the book from start to finish.
 
