@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/swift-2-by-example/9781785882920)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785882929).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Swift-2-by-Example/master/LICENSE)
 
 # Swift 2 by Example
