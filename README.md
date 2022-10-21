@@ -26,3 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 * [Swift Essentials - Second Edition](https://www.packtpub.com/application-development/swift-essentials-second-edition?utm_source=github&utm_medium=related&utm_campaign=9781785888878)
 * [Application Development with Swift 2](https://www.packtpub.com/application-development/application-development-swift-2-video?utm_source=github&utm_medium=related&utm_campaign=9781785889608)
 * [Object–Oriented Programming with Swift 2](https://www.packtpub.com/application-development/object%E2%80%93oriented-programming-swift-2?utm_source=github&utm_medium=related&utm_campaign=9781785885693)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785882920">https://packt.link/free-ebook/9781785882920 </a> </p>
