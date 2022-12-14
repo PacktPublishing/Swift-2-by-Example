@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781785882920)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Swift-2-by-Example.svg)](https://github.com/PacktPublishing/Swift-2-by-Example/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Swift-2-by-Example/master/LICENSE)
 
 # Swift 2 by Example
